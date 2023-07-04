@@ -15,6 +15,8 @@ saved in any location.
 This is a static web page that will load if directly deployed onto GitHub. From the
 project repository view, select settings > GitHub Pages > visit site.
 
+<img width="1440" alt="Personal CV project screenshot" src="https://github.com/andrewjbaker/personal-cv/assets/111700184/e49e2a81-7f2c-4add-921e-cdf62af84c65">
+
 ## 3. Credits
 Developed by Andrew Baker (GitHub: andrewjbaker) as part of the University of 
 Edinburgh and HyperionDev Software Engineering Online Bootcamp (2023).
